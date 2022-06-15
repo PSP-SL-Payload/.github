@@ -17,8 +17,9 @@ Obviously your choice of how you use git is up to you. We mostly use the [Github
 There are a lot of repos in this org which may seem overwhelming at first. For now, ignore all the LEGACY_xxx ones. Those are past repos we've had that are just here for reference if we have questions on what past teams have tried. For starters, read the brief descriptions of each repo. Many of these are small 'helper' repos that contain our libraries, utility functions, and other things that we want universal throughout all our projects. This way they can be updated independently of the main repos.
 
 After that, follow these steps to setup and link all the repos:
-1. Create an empty folder named 'PSP' in your C drive.
+1. Create an empty folder named 'PSP' in your C drive. This will be the root folder of all your PSP related repos
  ![image](https://user-images.githubusercontent.com/67335671/173953442-e841642a-dc49-4e82-a292-65fcd60e891c.png)
 2. Launch the Github Desktop App
 4. Start by cloning the 'utils' and 'libraries' repos
 ![cloning2](https://user-images.githubusercontent.com/67335671/173955429-8815b907-e45f-4516-9b6c-2c6effbdac3e.gif)
+5. 
