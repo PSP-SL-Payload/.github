@@ -12,3 +12,8 @@ The team has had great success using Arduino with [PlatformIO](https://platformi
 ### Hardware
 [KiCad](https://www.kicad.org/) has worked exceptionally well for the team. We use that for schematics and PCBs. 
 
+## Software Setup
+There are a lot of repos in this org which may seem overwhelming at first. For now, ignore all the LEGACY_xxx ones. Those are past repos we've had that are just here for reference if we have questions on what past teams have tried. For starters, read the brief descriptions of each repo. Many of these are small 'helper' repos that contain our libraries, utility functions, and other things that we want universal throughout all our projects. This way they can be updated independently of the main repos.
+
+After that, follow these steps to setup and link all the repos:
+1.
