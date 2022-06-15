@@ -8,7 +8,8 @@ Make repos as needed/desired. The work of old teams will be marked LEGACY and fo
 
 ## Technology Preferences
 ### Software
-The team has had great success using Arduino with [PlatformIO](https://platformio.org/). PlatformIO makes it so much easier to develop, it is **highly** recommended you use this setup for the embedded side of things. It also supports non-Arduino frameworks like Mbed and such but we use Arduino as it's easiest for newcomers to learn
+The team has had great success using Arduino with [PlatformIO](https://platformio.org/). PlatformIO makes it so much easier to develop, it is **highly** recommended you use this setup for the embedded side of things. It also supports non-Arduino frameworks like Mbed and such but we use Arduino as it's easiest for newcomers to learn.
+Obviously your choice of how you use git is up to you. We mostly use the [Github Desktop App](https://desktop.github.com/) because it's easy for people to learn. You're also free to use bash or whatever else if that's what you like.
 ### Hardware
 [KiCad](https://www.kicad.org/) has worked exceptionally well for the team. We use that for schematics and PCBs. 
 
@@ -16,4 +17,4 @@ The team has had great success using Arduino with [PlatformIO](https://platformi
 There are a lot of repos in this org which may seem overwhelming at first. For now, ignore all the LEGACY_xxx ones. Those are past repos we've had that are just here for reference if we have questions on what past teams have tried. For starters, read the brief descriptions of each repo. Many of these are small 'helper' repos that contain our libraries, utility functions, and other things that we want universal throughout all our projects. This way they can be updated independently of the main repos.
 
 After that, follow these steps to setup and link all the repos:
-1.
+1. 
