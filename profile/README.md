@@ -19,4 +19,6 @@ There are a lot of repos in this org which may seem overwhelming at first. For n
 After that, follow these steps to setup and link all the repos:
 1. Create an empty folder named 'PSP' in your C drive.
  ![image](https://user-images.githubusercontent.com/67335671/173953442-e841642a-dc49-4e82-a292-65fcd60e891c.png)
-2. 
+2. Launch the Github Desktop App
+4. Start by cloning the 'utils' and 'libraries' repos
+![cloning](https://user-images.githubusercontent.com/67335671/173955199-ccf06dfc-d5c4-431c-a292-d06f21b10c5b.gif)
