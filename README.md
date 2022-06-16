@@ -1,7 +1,7 @@
 # INSTRUCTIONS
 
 ## Software Setup
-1. Instal [Visual Studio Code](https://code.visualstudio.com/download)
+1. Install [Visual Studio Code](https://code.visualstudio.com/download)
 
 <br />
 
