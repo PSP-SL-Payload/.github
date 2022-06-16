@@ -41,3 +41,5 @@ After that, follow these steps to setup and link all the repos:
 <kbd>![building](https://user-images.githubusercontent.com/67335671/173985598-f59468d3-58bd-41df-80b1-2a0cc77b2601.gif)</kbd>
 
 <br /><br /><br /><br />
+
+7. If everything compiles just fine, congrats! You are now set up and ready to code!
