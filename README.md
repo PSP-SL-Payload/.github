@@ -32,14 +32,14 @@
 7. If you've followed these instructions, this is how your file structure should look like. Verify that your directory looks like this
 <kbd>![image](https://user-images.githubusercontent.com/67335671/173988163-71beb361-413f-4ca0-8bbc-dbd5f1d84043.png)</kbd>
 
+<br /><br /><br /><br />
 
-
-7. If you followed the general scheme of placing the repos in the correct places, they will be already setup to link against each other and you will be able to compile them. Now, ensure that the project can still build. Open the root folder of the project you just cloned. (For GCS it needs to be SensorHub or ButtonHandler, since it needs a platformio.ini file in it).
+8. If you followed the general scheme of placing the repos in the correct places, they will be already setup to link against each other and you will be able to compile them. Now, ensure that the project can still build. Open the root folder of the project you just cloned. (For GCS it needs to be SensorHub or ButtonHandler, since it needs a platformio.ini file in it).
 <kbd>![building](https://user-images.githubusercontent.com/67335671/173985598-f59468d3-58bd-41df-80b1-2a0cc77b2601.gif)</kbd>
 
 <br /><br /><br /><br />
 
-8. If everything compiles just fine, congrats! You are now set up and ready to code!
+9. If everything compiles just fine, congrats! You are now set up and ready to code!
 
 ## Hardware Setup
 todo: Sean
