@@ -9,7 +9,9 @@ Make repos as needed/desired. The work of old teams will be marked LEGACY and fo
 ## Technology Preferences
 ### Software
 The team has had great success using Arduino with [PlatformIO](https://platformio.org/). PlatformIO makes it so much easier to develop, it is **highly** recommended you use this setup for the embedded side of things. It also supports non-Arduino frameworks like Mbed and such but we use Arduino as it's easiest for newcomers to learn.
-Obviously your choice of how you use git is up to you. We mostly use the [Github Desktop App](https://desktop.github.com/) because it's easy for people to learn. You're also free to use bash or whatever else if that's what you like.
+Obviously your choice of how you use git is up to you. As a cherry on top, it's a plugin for VSCode. 
+
+We mostly use the [Github Desktop App](https://desktop.github.com/) because it's easy for people to learn. You're also free to use bash or whatever else if that's what you like.
 ### Hardware
 [KiCad](https://www.kicad.org/) has worked exceptionally well for the team. We use that for schematics and PCBs. 
 
