@@ -21,14 +21,11 @@ After that, follow these steps to setup and link all the repos:
 1. Create an empty folder named 'PSP' in your C drive. This will be the root folder of all your PSP related repos
 ![image](https://user-images.githubusercontent.com/67335671/173953442-e841642a-dc49-4e82-a292-65fcd60e891c.png)
 
-<br /><br /><br /><br />
+<br /><br /><br />
 
 2. Launch the Github Desktop App
 
-<br />
-<br />
-<br />
-<br />
+<br /><br /><br />
 
 4. Start by cloning the 'utils' and 'libraries' repos into your new PSP directory (C:\PSP\). These are helper repos that our other repos will link against. 
 ![cloning2](https://user-images.githubusercontent.com/67335671/173955429-8815b907-e45f-4516-9b6c-2c6effbdac3e.gif)
