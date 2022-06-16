@@ -19,7 +19,7 @@ There are a lot of repos in this org which may seem overwhelming at first. For n
 
 After that, follow these steps to setup and link all the repos:
 1. Create an empty folder named 'PSP' in your C drive. This will be the root folder of all your PSP related repos
-![image](https://user-images.githubusercontent.com/67335671/173953442-e841642a-dc49-4e82-a292-65fcd60e891c.png)
+<kbd>![image](https://user-images.githubusercontent.com/67335671/173953442-e841642a-dc49-4e82-a292-65fcd60e891c.png)</kbd>
 
 <br /><br /><br />
 
