@@ -39,7 +39,16 @@
 
 <br /><br /><br /><br />
 
-9. If everything compiles just fine, congrats! You are now set up and ready to code!
+10. Install the Doxygen extension for VSCode
+<kbd>![DoxygenExtension](https://user-images.githubusercontent.com/54650222/174422395-7d1a6957-c55a-4750-beb7-adf1a1694d9f.gif)</kbd>
+
+<br /><br /><br /><br />
+
+11. Download and install [Doxygen](https://www.doxygen.nl/download.html).
+
+<br /><br /><br /><br />
+
+12. If everything compiles just fine, congrats! You are now set up and ready to code!
 
 ## Hardware Setup
 todo: Sean
