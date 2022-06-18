@@ -12,6 +12,8 @@ The team has had great success using Arduino with [PlatformIO](https://platformi
 Obviously your choice of how you use git is up to you. As a cherry on top, it's a plugin for VSCode. 
 
 We mostly use the [Github Desktop App](https://desktop.github.com/) to interact with github because it's easy for people to learn. You're also free to use bash or whatever else if that's what you like.
+
+For all documentation, we use a tool called [Doxygen](https://www.doxygen.nl/download.html) to automatically generate it for us. 
 ### Hardware
 [KiCad](https://www.kicad.org/) has worked exceptionally well for the team. We use that for schematics and PCBs. 
 
