@@ -44,7 +44,7 @@
 
 <br /><br /><br /><br />
 
-11. Download and install [Doxygen](https://www.doxygen.nl/download.html).
+11. Download and install [Doxygen](https://www.doxygen.nl/download.html). Follow the [Doxygen Instructions](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/blob/main/Doxygen/README.md) to learn how we use it on this team.
 
 <br /><br /><br /><br />
 
