@@ -23,3 +23,5 @@ There are a lot of repos in this org which may seem overwhelming at first. For n
 
 After that, follow the [setup instructions](https://github.com/PSP-SL-Payload/.github/blob/main/README.md) to setup and link all the repos
 
+## Any More Questions?
+If you have any more questions, or want to check out some of the team's procedures, check out our [Instructions and Procedures Repository](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/blob/main/README.md).
