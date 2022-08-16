@@ -28,3 +28,8 @@ After that, follow the [Software Developers Setup Guide](https://github.com/PSP-
 
 ## Any More Questions?
 If you have any more questions, or want to check out some of the team's procedures, check out our [Instructions and Procedures Repository](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/blob/main/README.md).
+
+
+## Miscellaneous Quick Links
+- [Creating a new payload repo](https://github.com/PSP-SL-Payload/Template_Payload-Repo#readme)
+- [How do Pull Requests work?](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/tree/main/PullRequests)
