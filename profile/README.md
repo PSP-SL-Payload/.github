@@ -31,5 +31,5 @@ If you have any more questions, or want to check out some of the team's procedur
 
 
 ## Miscellaneous Quick Links
-- [Creating a new payload repo](https://github.com/PSP-SL-Payload/Template_Payload-Repo#readme)
+- [Creating a new payload repo](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/tree/main/MakingNewRepo#using-template_payload-repo)
 - [How do Pull Requests work?](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/tree/main/PullRequests)
