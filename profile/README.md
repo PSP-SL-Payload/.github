@@ -4,7 +4,10 @@ The goal of this organization is to store the Payload team's software + electric
 
 
 ## Organization Scheme
-Make repos as needed/desired. The work of old teams will be marked LEGACY and followed by the year. Use the work done on those as guidance for future endeavors.
+Make repos as needed/desired.
+- LEGACY_xxx: denotes repos that past teams have used and are no longer supported. These are kept for reference and guidance on what past teams have done.
+- Template_xxx: denotes repos that are 'templates'. Use them to create new repos when you need to do that
+- Docs_xxx: denots repos that are meant for holding the documentation for the code repos
 
 ## Technology Preferences
 ### Software
