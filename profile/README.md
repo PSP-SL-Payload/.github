@@ -31,7 +31,7 @@ After that, follow the [Software Developers Setup Guide](https://github.com/PSP-
 2. Next, familiarize yourself with our primary repos by reading the READMEs and maybe taking a brief look at the documentation
     - [GCS](https://github.com/PSP-SL-Payload/GCS)  
     - [libraries](https://github.com/PSP-SL-Payload/libraries)  
-    - [InstructionsAndProcedures](https://github.com/PSP-SL-Payload/InstructionsAndProcedures)
+    - [InstructionsAndProcedures](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/blob/main/README.md)
 3. Finally, look around at anything else that looks interesting!
 
 ## Any More Questions?
