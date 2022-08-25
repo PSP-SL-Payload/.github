@@ -32,7 +32,7 @@ After that, follow the [Software Developers Setup Guide](https://github.com/PSP-
     - [GCS](https://github.com/PSP-SL-Payload/GCS) - used to control the Ground Control Station.
     - [libraries](https://github.com/PSP-SL-Payload/libraries) - all of our wrappers and libraries. We use these to build our control loops and main code to make it easier on ourselves.
     - [InstructionsAndProcedures](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/blob/main/README.md) - all our instructions and procedures that describe how this repo is set up and how to get various things working!
-3. Inside the MissionStageDetection library we made, there is a good example of the general flow of our control loops. Check it out [here](https://github.com/PSP-SL-Payload/libraries/blob/main/libs/MissionStageDetection/README.md)
+3. Inside the InstructionsAndProcedures repo, there's a link to the MissionStageDetection library which contains a good example of the general flow of our control loops. Check it out [here](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/blob/main/CreatingPayloadControlLoop/README.md)
 4. Finally, look around at anything else that looks interesting!
 
 ## Any More Questions?
