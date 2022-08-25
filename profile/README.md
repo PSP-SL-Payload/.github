@@ -28,11 +28,12 @@ After that, follow the [Software Developers Setup Guide](https://github.com/PSP-
 
 ## For New Members
 1. Start by reading the `Software Setup` section above and set up the software it tells you to.
-2. Next, familiarize yourself with our primary repos by reading the READMEs and maybe taking a brief look at the documentation
-    - [GCS](https://github.com/PSP-SL-Payload/GCS)  
-    - [libraries](https://github.com/PSP-SL-Payload/libraries)  
-    - [InstructionsAndProcedures](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/blob/main/README.md)
-3. Finally, look around at anything else that looks interesting!
+2. Next, familiarize yourself with our three primary repos by reading the READMEs and maybe taking a brief look at the documentation
+    - [GCS](https://github.com/PSP-SL-Payload/GCS) - used to control the Ground Control Station.
+    - [libraries](https://github.com/PSP-SL-Payload/libraries) - all of our wrappers and libraries. We use these to build our control loops and main code to make it easier on ourselves.
+    - [InstructionsAndProcedures](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/blob/main/README.md) - all our instructions and procedures that describe how this repo is set up and how to get various things working!
+3. Inside the MissionStageDetection library we made, there is a good example of the general flow of our control loops. Check it out [here](https://github.com/PSP-SL-Payload/libraries/blob/main/libs/MissionStageDetection/README.md)
+4. Finally, look around at anything else that looks interesting!
 
 ## Any More Questions?
 If you have any more questions, or want to check out some of the team's procedures, check out our [Instructions and Procedures Repository](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/blob/main/README.md).
