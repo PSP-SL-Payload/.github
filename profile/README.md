@@ -11,7 +11,7 @@ Make repos as needed/desired.
 
 
 ## For New Members
-1. Start by reading the `Software Setup` section below and set up the software it tells you to.
+1. Start by reading the [`Software Setup`](https://github.com/PSP-SL-Payload/.github/blob/main/profile/README.md#software-setup) section below and set up the software it tells you to.
 2. Next, familiarize yourself with our three primary repos by reading the READMEs and maybe taking a brief look at the documentation
     - [GCS](https://github.com/PSP-SL-Payload/GCS) - used to control the Ground Control Station.
     - [libraries](https://github.com/PSP-SL-Payload/libraries) - all of our wrappers and libraries. We use these to build our control loops and main code to make it easier on ourselves.
