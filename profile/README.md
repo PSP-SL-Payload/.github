@@ -16,6 +16,7 @@ Make repos as needed/desired.
     - [GCS](https://github.com/PSP-SL-Payload/GCS) - used to control the Ground Control Station.
     - [libraries](https://github.com/PSP-SL-Payload/libraries) - all of our wrappers and libraries. We use these to build our control loops and main code to make it easier on ourselves.
     - [InstructionsAndProcedures](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/blob/main/README.md) - all our instructions and procedures that describe how this repo is set up and how to get various things working!
+        - We use Pull Requests to handle changes and such to the main code, so the [How to: Pull Requests](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/tree/main/PullRequests#readme) is essential to understand!
 3. Inside the InstructionsAndProcedures repo, there's a link to the MissionStageDetection library which contains a good example of the general flow of our control loops. Check it out [here](https://github.com/PSP-SL-Payload/InstructionsAndProcedures/blob/main/CreatingPayloadControlLoop/README.md)
 4. Finally, look around at anything else that looks interesting!
 
